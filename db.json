@@ -1,7 +1,7 @@
 {
-  "posts": [
+  "posts": 
     {"report":{"status":"Healthy","results":{"EnvironmentAzureStorage":{"status":"Healthy"},"Azure Search Service":{"status":"Healthy"}}},"service":{"version":"0.14.4","shortName":"jcl","dependencies":[{"name":"JATO.JaaS.Services.Jdm"},{"name":"JATO.JaaS.Services.Data"}],"name":"JATO.JaaS.Services.CodeLink"}}
-  ],
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
